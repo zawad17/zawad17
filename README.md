@@ -9,11 +9,11 @@
        alt="zawadrahman" />
 </p>
 
-<!-- Twitter Follow Badge -->
+<!-- LinkedIn Follow Badge -->
 <p align="left">
-  <a href="https://twitter.com/zawadrahman" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/zawadrahman?logo=twitter&style=for-the-badge" 
-         alt="Follow on Twitter" />
+  <a href="https://linkedin.com/zawadrahman" target="_blank">
+    <img src="https://img.shields.io/linkedIn/follow/zawadrahman?logo=twitter&style=for-the-badge" 
+         alt="Follow on LinkedIn" />
   </a>
 </p>
 
