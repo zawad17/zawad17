@@ -6,10 +6,13 @@
 <!-- GitHub Profile Views -->
 <!-- LinkedIn Follow Badge -->
 <p align="left">
-  <a href="https://www.linkedin.com/in/zawadrahman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" 
-         alt="Follow on LinkedIn" />
+<p align="left">
+  <a href="https://twitter.com/zawadrahman" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/zawadrahman?logo=twitter&style=for-the-badge" 
+         alt="Follow on Twitter" />
   </a>
+</p>
+
 </p>
 
 
