@@ -4,10 +4,14 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <!-- GitHub Profile Views -->
+<!-- LinkedIn Follow Badge -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=zawadrahman&label=Profile%20views&color=0e75b6&style=flat" 
-       alt="zawadrahman" />
+  <a href="https://www.linkedin.com/in/zawadrahman" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" 
+         alt="Follow on LinkedIn" />
+  </a>
 </p>
+
 
 <!-- LinkedIn Follow Badge -->
 <p align="left">
